@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace inventorymngt.shared
+namespace InventoryManagement.shared
 {
-    internal class PurchaseOrder
+    public class PurchaseOrder
     {
     }
 }
